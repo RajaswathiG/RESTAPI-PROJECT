@@ -1,0 +1,6 @@
+com\example\demo\model\Transaction.class
+com\example\demo\ProApplication.class
+com\example\demo\controller\Controller.class
+com\example\demo\repository\Repo.class
+com\example\demo\service\Service.class
+com\example\demo\model\Fruit.class

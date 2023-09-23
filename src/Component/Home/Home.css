@@ -1,0 +1,8 @@
+.background-image {
+    /* background-image: url("https://image.shutterstock.com/image-photo/delivery-healthy-food-background-vegan-260nw-1937070664.jpg"); */
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: rgb(159, 240, 162);
+    width: 100%;
+    height: 100%; /* Set the height as needed */
+  }
